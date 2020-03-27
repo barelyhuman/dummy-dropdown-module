@@ -7,6 +7,6 @@
   },
   "scripts": {
     "build":"ng build dropdown",
-    "postinstall": "npm i && npm build"
+    "postinstall": "npm build"
   }
 }
